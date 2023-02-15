@@ -1,0 +1,57 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Inconsolata', monospace;
+}
+
+
+
+.img-nav {
+    position: absolute;
+   
+
+}
+.nav {
+    position: fixed;
+    font-size: 30px;
+    margin: 50px;
+    
+   
+}
+.link-nav{
+    font-weight: 700;
+    padding: 10px;
+    border: solid #bb8623;
+    color: #ffffff;
+    cursor: pointer;
+}
+.link-nav:hover{
+    opacity: .8;
+}
+.link-nav:active{
+    opacity: .5;
+}
+.paragrafo-nav{
+    font-weight: 700;
+    padding-left: 170%;
+    color: #bb8623;
+    
+}
+.section{
+    position: fixed;
+    margin-top: 36%;
+    margin-left: 20%;
+    
+}
+.ola{
+    font-size: xx-large;
+    color: #ffffff;
+}
+.jeferson{
+    font-size: xxx-large;
+    color: #bb8623;
+}
+.paragrafo-section{
+    font-size: large;
+}

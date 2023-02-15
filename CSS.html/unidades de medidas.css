@@ -1,0 +1,15 @@
+/*
+
+Uninade de medidas
+
+-> Absolutas
+      px(pixels) é um centimetros de polegada
+      in(inches/polegadas)
+      cm / mm (centimetros milimetros)
+
+-> Relativas
+    96 calcula o tamanho relativo ao elemento pai
+    vw (view width) 1vw é um po cento da largura da janela do navegador
+    vh(view height) 1vh é um porcento da janela do navegador
+    em-> é uma unidade relativa ao elemento pai
+    rem-> é uma unidade ao elemento raiz        

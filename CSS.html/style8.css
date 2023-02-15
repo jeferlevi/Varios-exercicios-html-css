@@ -1,0 +1,18 @@
+div {
+    width: 200px;
+    height: 400px;
+    padding: 200px;
+    margin: 0 600px 0 600px;
+    background-color: aqua;
+
+}
+
+.jefer {
+    position: absolute;
+    bottom: 111px;
+    left: 608px;
+    transition: opacity 2s ease-in-out;
+}
+
+
+

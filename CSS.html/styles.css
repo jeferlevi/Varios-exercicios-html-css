@@ -1,0 +1,33 @@
+* {
+    background: greenyellow;
+}
+
+
+
+
+
+
+
+
+h1 {
+    color: black;
+    background: gray;
+}
+
+p {
+    color: blue;
+    font-size: 20px;
+
+}
+
+button {
+    background: green;
+    border-color: blue;
+
+}
+
+/*RGB
+RED 50
+GREEN75              oque quiser
+BLUE100
+tem que por os três números

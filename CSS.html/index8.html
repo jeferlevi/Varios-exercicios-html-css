@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style8.css">
+    <title>Jeferson-Levi</title>
+</head>
+
+<body>
+    <div>
+        <img src="./img/173917.jpg" class="jefer">
+        <img src="./img/173939.jpg" class="jefer" id="troca-imagem">
+    </div>
+
+
+</body>
+<script>
+    let imagem = document.getElementById("troca-imagem")
+    function trocaImagem() {
+        if (imagem.style.opacity == 0) {
+            imagem.style.opacity = 1
+
+        }
+        else {
+            imagem.style.opacity = 0
+        }
+
+    }
+    setInterval(function () {
+        trocaImagem()
+
+    }, 3000);
+
+
+</script>
+
+</html>
